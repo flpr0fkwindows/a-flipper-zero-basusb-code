@@ -3,7 +3,7 @@
 
 Lightweight BadUSB payload for Flipper Zero
 
-Created by @flpr0.fkwindows932
+Created by @flpr0.fkwindows
 
 ──────────────────────────────
 
