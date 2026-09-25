@@ -9,6 +9,7 @@ No files are deleted, no system settings are altered, and no lasting changes are
 Currently optimized for Windows environments.
 
 Support for Android and other platforms is planned in future updates.
+
 Disclaimer
 
 By using this payload you fully accept responsibility for your own actions.
