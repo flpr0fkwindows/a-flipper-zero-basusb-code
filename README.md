@@ -12,18 +12,18 @@ Created by @flpr0.fkwindows932
 Designed to generate controlled, temporary system lag without causing permanent harm.
 
 Applies short-term resource pressure to slow down the target device for demonstration or testing purposes only.
-✅ No files are deleted
+No files are deleted
 
-✅ No system settings are altered
+No system settings are altered
 
-✅ No lasting changes are made to the device
+No lasting changes are made to the device
 Currently optimized for Windows environments.
 
 Support for Android and other platforms is planned in future updates.
 
 ──────────────────────────────
 
-⚠️ Disclaimer
+⚠️ Disclaimer ⚠️ iMPORTANT
 
 By using this payload you fully accept responsibility for your own actions.
 • The creator takes no responsibility for anything that happens to the target device.
@@ -48,10 +48,11 @@ Use at your own risk.
 
 ──────────────────────────────
 
-✅ The payload is now ready to use!
-✨ Fully customizable
+The payload is now ready to use
 
-💡 For edits or custom versions → recommended to use Grok
+Fully customizable
+
+For edits or custom versions → recommended to use Grok
 
 
 <img width="809" height="477" alt="Screenshot 2026-09-25 141221" src="https://github.com/user-attachments/assets/6d6b58a1-0e03-4479-bfd9-b6b13637ce36" />
