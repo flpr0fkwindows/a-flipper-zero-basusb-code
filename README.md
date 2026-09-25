@@ -48,7 +48,7 @@ Use at your own risk.
 4. Go to SD Card → badusb
 5. Place the payload file inside the badusb folder
 6. disconnect your Flipper Zero
-7. Now when its done connect it to a Computer and run the Badusb
+7. Now when its done connect it to any Computer and run the Badusb
 
 ──────────────────────────────
 
