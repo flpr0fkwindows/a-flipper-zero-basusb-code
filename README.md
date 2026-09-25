@@ -1,9 +1,12 @@
 
 ──────────────────────────────
+
 Lightweight BadUSB payload for Flipper Zero
 
 Created by @flpr0.fkwindows932
+
 ──────────────────────────────
+
 🎯 Purpose
 
 Designed to generate controlled, temporary system lag without causing permanent harm.
@@ -17,7 +20,9 @@ Applies short-term resource pressure to slow down the target device for demonstr
 Currently optimized for Windows environments.
 
 Support for Android and other platforms is planned in future updates.
+
 ──────────────────────────────
+
 ⚠️ Disclaimer
 
 By using this payload you fully accept responsibility for your own actions.
@@ -31,7 +36,9 @@ Use at your own risk.
 <img width="657" height="102" alt="Screenshot 2026-09-25 140904" src="https://github.com/user-attachments/assets/e020e00f-3cf8-4c08-babb-2e4e8078e743" />
 
 📦 Installation Guide – light_lag_countdown
+
 ──────────────────────────────
+
 1. Download & install the official qFlipper app on your computer
 2. Connect your Flipper Zero via USB cable
 3. Open qFlipper and wait until it shows Connected
