@@ -38,7 +38,9 @@ Use at your own risk.
 4. Go to SD Card → badusb
 5. Place the payload file inside the badusb folder
 6. Safely disconnect your Flipper Zero
+
 ──────────────────────────────
+
 ✅ The payload is now ready to use!
 ✨ Fully customizable
 
