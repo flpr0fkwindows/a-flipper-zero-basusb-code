@@ -47,7 +47,8 @@ Use at your own risk.
 3. Open qFlipper and wait until it shows Connected
 4. Go to SD Card → badusb
 5. Place the payload file inside the badusb folder
-6. Safely disconnect your Flipper Zero
+6. disconnect your Flipper Zero
+7. Now when its done connect it to a Computer and run the Badusb
 
 ──────────────────────────────
 
