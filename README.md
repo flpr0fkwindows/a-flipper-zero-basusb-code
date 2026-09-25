@@ -1,3 +1,4 @@
+
 Lightweight BadUSB payload for Flipper Zero, created by @flpr0.fkwindows932.
 Purpose
 
@@ -7,6 +8,8 @@ The payload applies short-term resource pressure to slow down the target device 
 
 No files are deleted, no system settings are altered, and no lasting changes are made to the device.
 Currently optimized for Windows environments.
+
+<img width="657" height="102" alt="Screenshot 2026-09-25 140904" src="https://github.com/user-attachments/assets/aa4a5a3c-eda0-4dbe-9dba-d0a2234afc59" />
 
 Support for Android and other platforms is planned in future updates.
 
