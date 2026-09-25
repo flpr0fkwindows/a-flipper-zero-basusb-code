@@ -26,6 +26,7 @@ Support for Android and other platforms is planned in future updates.
 ⚠️ Disclaimer ⚠️ iMPORTANT
 
 By using this payload you fully accept responsibility for your own actions.
+
 • The creator takes no responsibility for anything that happens to the target device.
 
 • You choose to run the payload of your own free will.
@@ -34,6 +35,8 @@ By using this payload you fully accept responsibility for your own actions.
 Use at your own risk.
 
 <img width="657" height="102" alt="Screenshot 2026-09-25 140904" src="https://github.com/user-attachments/assets/e020e00f-3cf8-4c08-babb-2e4e8078e743" />
+
+──────────────────────────────
 
 📦 Installation Guide – light_lag_countdown
 
