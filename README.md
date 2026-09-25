@@ -38,7 +38,7 @@ Use at your own risk.
 
 ──────────────────────────────
 
-📦 Installation Guide – light_lag_countdown
+📦 Installation Guide – light_Weight_Badkb
 
 ──────────────────────────────
 
