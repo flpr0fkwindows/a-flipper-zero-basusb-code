@@ -45,10 +45,11 @@ Use at your own risk.
 1. Download & install the official qFlipper app on your computer
 2. Connect your Flipper Zero via USB cable
 3. Open qFlipper and wait until it shows Connected
-4. Go to SD Card → badusb
-5. Place the payload file inside the badusb folder
-6. disconnect your Flipper Zero
-7. Now when its done connect it to any Computer and run the Badusb
+4. Now copy the googleflood and paste it into notepad and save it
+5. Go to SD Card → badusb
+6. Place the saved .txt file inside the badusb folder
+7. disconnect your Flipper Zero
+8. Now when its done connect it to any Computer and run the Badusb
 
 ──────────────────────────────
 
