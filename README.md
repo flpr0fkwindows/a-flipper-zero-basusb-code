@@ -23,7 +23,7 @@ Support for Android and other platforms is planned in future updates.
 
 ──────────────────────────────
 
-⚠️ Disclaimer ⚠️ iMPORTANT
+⚠️ Disclaimer ⚠️ IMPORTANT ⚠️
 
 By using this payload you fully accept responsibility for your own actions.
 
